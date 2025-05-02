@@ -4,8 +4,8 @@
 */
 
 .mdl-layout__header-row {
-  justify-content: left;
-  padding: 1;
+  justify-content: center;
+  padding: 0;
 }
 
 .mdl-layout__content {
